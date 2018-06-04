@@ -1,0 +1,13 @@
+<html>
+<head> Project </head>
+<body>
+<h1><b>Types of Designs</b></h1>
+<p> In this section you will be able to see the designs we create </p>
+<h2> Fall ceiling </h2>
+<h2> Paint Design </h2>
+<h2> Door Designs </h2>
+<h2> Kitchen Design </h2>
+
+
+</body>
+</html># Ramandeep
